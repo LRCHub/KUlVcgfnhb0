@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Awaken Now",
+  "base_artist": "松永依織",
+  "createdAt": "2026-03-02T07:24:08.991864Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Awaken Now",
+      "artist": "松永依織",
+      "has_synced": false,
+      "path": "select/pl_01_Awaken_Now_松永依織.txt"
+    }
+  ]
+}
